@@ -1,0 +1,44 @@
+img{
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard {
+    
+    border: 5px solid black;
+    
+    border-radius: 25px;
+    
+    height: 14em;
+    
+    width: 25em;
+    
+    background-color: #D9D9D9;
+    }
+    
+    body {
+      
+      text-align: center;
+      background-color: #D5B61A;
+    }
+    
+    .centered {
+      margin: 0 auto;
+      text-align: left;
+      width: 800px;
+    }
+
+    .fN {
+        text-align: center;
+        font-family: Noteworthy;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .ind {
+        text-indent: 5px;
+    }
